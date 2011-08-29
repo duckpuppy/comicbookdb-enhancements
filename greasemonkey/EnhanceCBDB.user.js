@@ -1,7 +1,8 @@
 // Enhance ComicBookDB Script
-// version 0.51 BETA - 2007-10-14
+// version 0.6 BETA - 20011-08-29
 //
 // Copyright (C) 2007 Tom Tullio (ttullio)
+// Modified by Patrick Aikens (duckpuppy)
 //
 // Includes functionality based on "Accessify" by Ben Zeigler (www.jzig.com)
 //
